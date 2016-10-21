@@ -68,4 +68,6 @@
 +unless escape == 1
 +puts "Thank you for participating and for your input!"
 +puts " "
-+end 
++end
+
+#Collaboration by Juan
